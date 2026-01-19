@@ -1,11 +1,13 @@
 # Intelligence?
-Intelligence is the ability of a system (human or machine) to understand information, learn from experience, reason logically, solve problems, and adapt to new situations.
+Intelligence is the ability of a system (human or machine) to understand information, learn from experience, 
+reason logically, solve problems, and adapt to new situations.
 
 # Human Intelligence?
 Human intelligence is natural intelligence developed through biology and life experiences.
 
 # Artificial Intelligence?
-Artificial Intelligence (AI) is the simulation of human intelligence in machines, enabling them to perform tasks that normally require human thinking.
+Artificial Intelligence (AI) is the simulation of human intelligence in machines, 
+enabling them to perform tasks that normally require human thinking.
 
 # Role of Data in AI?
 Data is the fuel for Artificial Intelligence.
