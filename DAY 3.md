@@ -6,12 +6,12 @@ An embedding is a numerical representation of text that captures its meaning by 
 Matches exact keywords
 Works by comparing letters
 Counts and highlights word occurrences
-📌 This is called lexical search.
-❌ Limitations
+* This is called lexical search.
+### Limitations
 Works only if the exact word exists
 Cannot understand meaning or similarity
 #### Example:
-Search for “cat” ❌ will NOT return “feline”
+Search for “cat”  will NOT return “feline”
 Computer matches letters, not concepts
 
 ### 2. Library Example (Human vs Machine Search)
